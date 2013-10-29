@@ -1,19 +1,19 @@
-title:            Site Title
-tagline:          A short tagline
+title:            Divide by zero
+tagline:          a blog by jimmyff
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://jimmyff.github.io/dbz/
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jimmy Forrester-Fellowes
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "foo bar"
+  email:          jimmy@rocketware.co.uk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         jimmyff
   linkedin:       
   instagram:      
   lastfm:         
